@@ -18,6 +18,7 @@
     hgroup,
     menu,
     nav,
+    add-main    
     section {
       display: block;
     }
