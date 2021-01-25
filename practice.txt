@@ -19,6 +19,7 @@
     menu,
     nav,
     add-main    
+    add-for-practice
     section {
       display: block;
     }
